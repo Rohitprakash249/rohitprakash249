@@ -1,4 +1,14 @@
+# 💫 Hi 👋, I'm Rohit Prakash
+**A passionate Full stack web developer || web designer || 3d Printing enthusiast || Product designer & developer **
 
+Email Me 👉 ✉️ ** Rohitprakash249@gmail.com** For Collaboration/Freelancing Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on: Restaurant Management Product as a freelancer
+- 🌱 **I’m currently learning:** postgresql
+- 🤔 **I’m looking for help with:** Internship or job opportunity.
+- 📫 **How to reach me:** Rohitprakash249@gmail.com
+- ⚡ **Fun fact:** I'm not scared of breaking the code and yes i can center a div.
+  
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rohitprakash249) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blabla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitprakash249@gmail.com) 
 
