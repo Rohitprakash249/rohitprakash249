@@ -20,12 +20,4 @@ Note: these stats doesn't include private repo's commits.
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitprakash249&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitprakash249&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
