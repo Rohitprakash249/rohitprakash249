@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rohit Prakash
-**A passionate Full stack web developer || web designer || 3d Printing enthusiast || Product designer & developer **
+**A passionate Full stack web developer ||  3d Printing enthusiast || developer **
 
 Email Me 👉 ✉️ ** Rohitprakash249@gmail.com ** For Collaboration/Freelancing Project or Anything Else. 😊😊
 
